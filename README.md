@@ -8,7 +8,7 @@
 
 | # | Tool | Best for | Price (read 25 Oct 2026) | One limit |
 |---|---|---|---|---|
-| 1 | [Reel Factory](https://getziztu.com/reel-factory?utm_source=github&utm_medium=list&utm_campaign=best_ai_video_generators) (Ziztu) | Explainer Shorts and Reels from one topic: 201 styles in 19 formats, or paste a YouTube or Instagram link to copy its format | Exact credit price shown before each run; plans from $9 a week; 40 free credits, no card | Does not post to YouTube for you |
+| 1 | [Reel Factory](https://getziztu.com/reel-factory?utm_source=github&utm_medium=list&utm_campaign=best_ai_video_generators) (Ziztu) | Explainer Shorts and Reels from one topic: 250+ styles in 19 formats, or paste a YouTube or Instagram link to copy its format | Exact credit price shown before each run; plans from $9 a week; 40 free credits, no card | Does not post to YouTube for you |
 | 2 | [AI YouTube Video Maker](https://getziztu.com/ai-youtube-video-maker?utm_source=github&utm_medium=list&utm_campaign=best_ai_video_generators) (Ziztu) | Narrated 3 to 60 minute videos in one look, 18 looks | Quote in credits before you make | New tool, no results to quote yet |
 | 3 | [faceless.video](https://faceless.video) | Reels posted on a schedule | Starter $20 a month, up to 15 videos | Video length not stated |
 | 4 | [faceless.so](https://faceless.so) | A channel pipeline with auto-posting | Starter $29 a month, $24 billed yearly | About one long video a month on Starter |
