@@ -39,6 +39,8 @@ Small jobs that come up every week: a GIF for a community post, a clip from a GI
 
 See it in two minutes: [How to make AI Shorts for a faceless YouTube channel](https://youtu.be/pebW4cr9zPk) (made with Reel Factory, recorded live).
 
+Need the words from a video first? See [Free video transcript tools (2026)](free-video-transcript-tools/) for Instagram, TikTok, Facebook, X and YouTube.
+
 ## What YouTube says (read 25 October 2026)
 
 - **Monetization:** YouTube's [channel monetization policies](https://support.google.com/youtube/answer/1311392) cover inauthentic content, meaning mass-produced or repetitive videos. The same page says you may use AI to visualize a unique character and narrative you invented. Give every video your own angle and checked facts.
