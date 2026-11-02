@@ -41,6 +41,8 @@ See it in two minutes: [How to make AI Shorts for a faceless YouTube channel](ht
 
 Need the words from a video first? See [Free video transcript tools (2026)](free-video-transcript-tools/) for Instagram, TikTok, Facebook, X and YouTube.
 
+Comparing prices first? See [What AI video costs per second in 2026](ai-video-price-index/) and [Higgsfield pricing and alternatives for micro dramas and anime](higgsfield-pricing-and-alternatives/).
+
 ## What YouTube says (read 25 October 2026)
 
 - **Monetization:** YouTube's [channel monetization policies](https://support.google.com/youtube/answer/1311392) cover inauthentic content, meaning mass-produced or repetitive videos. The same page says you may use AI to visualize a unique character and narrative you invented. Give every video your own angle and checked facts.
